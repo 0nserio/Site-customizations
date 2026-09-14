@@ -1,6 +1,6 @@
 ### Kentrout Customizations
 
-Altura Blooms scripts and updates
+Altura Blooms scripts and updates - custom fields
 
 ### Installation
 
