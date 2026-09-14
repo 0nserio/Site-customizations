@@ -1,6 +1,6 @@
 ### Kentrout Customizations
 
-Kentrouts scripts and updates
+Altura Blooms scripts and updates
 
 ### Installation
 
